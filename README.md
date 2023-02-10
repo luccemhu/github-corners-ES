@@ -11,6 +11,7 @@ Entonces:
 -   Descarga el html de tu interés y agrega el header.html al YAML en tu Rmd. 
 -   Tus archivos deben estar en la misma carpeta: el html y el rmd.
 
+`
 ---
 title: "raaa"
 
@@ -19,7 +20,7 @@ output:
     includes:
       in_header: header.html
 ---
-
+`
 
 También puedes cambiar el color o la posición 
 ============================================================
