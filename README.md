@@ -47,7 +47,7 @@ IMPORTANTE:
 
 -   Descarga el Html de este repositorio en tu entorno de trabajo.
 
--   En en Rmd, pega el YAML de arriba y en la siguiente linea de codigo pega el codigo de Tim Holman (No es necesario hacerlo en un chunk, de frente en el script).
+-   En un Rmd, pega el YAML de arriba y en la siguiente linea de codigo pega el codigo de Tim Holman (No es necesario hacerlo en un chunk, de frente en el script).
 
 -   Ya en tu editor de script, puedes editar el enlace a tu descripcion y también el color y la posicion de tu gatito.
 
