@@ -7,8 +7,8 @@ Github link in corner `ES`
 Descarga el html de esta repo y agrega el header.html al YAML
 ============================================================
 
-Entonces:
--   Descarga el html de tu interés y agrega el header.html al YAML en tu Rmd. 
+Entonces: 
+-   Descarga el html (header.html) de esta repo y agrega el "header.html" al YAML en tu Rmd. 
 -   Tus archivos deben estar en la misma carpeta: el html y el rmd.
 
 
