@@ -1,6 +1,6 @@
 Github link in corner `ES`
 ============================================================
--   link a tu github
+-   Agrega un enlace a tu github con el siguiente html
 
 ### All the credits to @tholman. The code provided in this repo belongs to Tim Holman: (>https://github.com/tholman/github-corners<).
 
