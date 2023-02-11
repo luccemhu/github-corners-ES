@@ -25,7 +25,7 @@ output:
 
 También puedes cambiar el color o la posición 
 ============================================================
--   GitHub Corners: (>https://tholman.com/github-corners/<) hecho por Tim Holman.
+-   Pueden revisar las diferentes ocpiones aquí: [**GitHub Corners**](https://tholman.com/github-corners/) hecho por Tim Holman.
 
 -   Por ejemplo, este es el código para que la imagen del gato interactivo tenga un fondo negro y esté ubicado al lado superior derecho:
 
@@ -55,7 +55,7 @@ IMPORTANTE:
 
 ### Puedes revisar este Rpubs de Gustavo Martínez Valdes para mejorar tu YAML: 
 
--   **[Diseño de YAML**](https://rpubs.com/gustavomtzv/874870).
+-   **[Diseño de YAML**](https://rpubs.com/gustavomtzv/874870)
 
 
 esotoesotoesoto... por ahora...
