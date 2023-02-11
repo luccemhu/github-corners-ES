@@ -55,7 +55,7 @@ IMPORTANTE:
 
 ### Puedes revisar este Rpubs de Gustavo Martínez Valdes para mejorar tu YAML: 
 
--   **[Diseño de YAML**](https://rpubs.com/gustavomtzv/874870)
+-   [**Diseño de YAML**](https://rpubs.com/gustavomtzv/874870)
 
 
 esotoesotoesoto... por ahora...
