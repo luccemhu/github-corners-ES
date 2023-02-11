@@ -2,7 +2,7 @@ Github link in corner `ES`
 ============================================================
 -   Agrega un enlace a tu github con el siguiente html
 
-### All the credits to [**@tholman**](https://github.com/tholman). The code provided in this repo belongs to Tim Holman: [**github-corners**](https://github.com/tholman/github-corners).
+-   All the credits to [**@tholman**](https://github.com/tholman). The code provided in this repo belongs to Tim Holman: [**github-corners**](https://github.com/tholman/github-corners).
 
 Descarga el html de esta repo y agrega el header.html al YAML
 ============================================================
