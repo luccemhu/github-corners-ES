@@ -25,7 +25,7 @@ output:
 
 También puedes cambiar el color o la posición 
 ============================================================
--   Pueden revisar las diferentes ocpiones aquí: [**GitHub Corners**](https://tholman.com/github-corners/) hecho por Tim Holman.
+-   Puedes revisar las diferentes opciones aquí: [**GitHub Corners**](https://tholman.com/github-corners/) hecho por Tim Holman.
 
 -   Por ejemplo, este es el código para que la imagen del gato interactivo tenga un fondo negro y esté ubicado al lado superior derecho:
 
